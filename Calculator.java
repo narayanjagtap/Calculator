@@ -2,9 +2,6 @@ package Projects;
 
 import java.util.Scanner;
 
-/*Write a Java program that acts as a simple calculator. 
-It should ask the user for two numbers and an operator (+, -, *, /) and then perform the calculation and display the result.*/
-
 public class Calculator {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
